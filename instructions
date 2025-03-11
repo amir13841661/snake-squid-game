@@ -1,0 +1,54 @@
+the idea of the game:to be done.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+key features:
+1.obstacles
+2.backtracking
+3.move limit
+4.lives
+
+
+
+
+
+
+
+obstacles:based on the difficulity there are randomized obstacles all around the grid
+should a player hit one of the obstacles they'll backtrack to their last position and
+get a time penalty.
+
+backtracking:as mentioned above backtracking can happen in two ways:
+1.should the user hit an obstacle they will backtrack to their last position.
+2.if the user has lost one of their lives.
+
+move limit:the user is limited to a certain amount of moves their number of moves cannot exceed 
+this limit or they will lose.
+
+lives:there are harts scattered all around the grid if the user picked one of them up they would gain 
+an extra life.
+
+
+
+the snake is shown by * on the map
+the obstacles are shown by # on the map
+the lives are shown by . on the map
+
+
+
+
+the link of the project on github:
+https://github.com/amir13841661/snake-squid-game
+
